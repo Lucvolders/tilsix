@@ -13,6 +13,8 @@
       Counting till six o'clock.
   </description>
 
+  <icon src="icon.png" />
+    
   <author>
       Luc Volders
   </author>
